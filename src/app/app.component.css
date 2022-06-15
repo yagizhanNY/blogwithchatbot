@@ -1,0 +1,12 @@
+.chat-modal {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 240px;
+    height: 45px;
+    z-index: 9999;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    cursor: pointer;
+}

@@ -1,0 +1,21 @@
+<div style="text-align: center;" class="container">
+    <img height="400px" src="{{ article.imageUrl }}" alt="{{ article.imageText }}" style="margin-top: 15px;">
+</div>
+
+<div class="container" style="margin-top: 20px;">
+    <div class="row">
+        <h1>{{ article.title }}</h1>
+    </div>
+    <div class="row" style="text-justify:distribute; font-size: medium; margin-top: 10px;">
+        <markdown
+            lineNumbers
+            [start]="5"
+            src="../../../assets/{{article.id}}.md">
+        </markdown>
+    </div>
+    <div class="row owner-date" style="text-align: right;">
+        <p>{{ article.createdDate }} - {{ article.owner }}</p>
+    </div>
+</div>
+
+

@@ -1,0 +1,31 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "Atasözleri ve Deyimlerin İncelenmesi",
+            "content": "Sit dolore nulla proident nisi labore anim consectetur ex. Excepteur reprehenderit nulla aliquip magna anim commodo. Et non incididunt ea do non deserunt dolor tempor dolore culpa minim consectetur ut. Nostrud nisi pariatur consectetur proident pariatur fugiat amet.",
+            "createdDate": "06.06.2022",
+            "owner": "Duygucan Yakalı",
+            "imageUrl": "https://multeciler.org.tr/wp-content/uploads/2018/05/cevirim-ici-turkce-kursu-kaynaklari-930x500.jpg",
+            "imageText": "Resim 1"
+        },
+        {
+            "id": 2,
+            "title": "Makale 2",
+            "content": "Cillum est incididunt enim eiusmod cillum consequat sit occaecat voluptate qui sunt. Ad elit sunt reprehenderit cupidatat labore quis mollit aliqua anim. Et Lorem amet eu mollit amet.",
+            "createdDate": "06.06.2022",
+            "owner": "Duygucan Yakalı",
+            "imageUrl": "https://millidusunce.com/wp-content/uploads/2019/12/turkce-1.png",
+            "imageText": "Resim 2"
+        },
+        {
+            "id": 3,
+            "title": "Makale 3",
+            "content": "Excepteur laboris laborum ipsum eiusmod ullamco enim sunt est laboris eu ipsum. Amet nisi laborum amet esse eiusmod fugiat do veniam qui ad cillum excepteur cillum quis. Aliqua commodo sint incididunt nisi mollit non ad pariatur veniam do mollit magna. Eiusmod laboris do qui laboris non ad fugiat ex eiusmod non excepteur.",
+            "createdDate": "06.06.2022",
+            "owner": "Duygucan Yakalı",
+            "imageUrl": "https://atakurumsal.com/wp-content/uploads/2021/05/turkce_ogrenmek.png",
+            "imageText": "Resim 3"
+        }
+    ]
+}
